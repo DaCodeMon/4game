@@ -1,5 +1,5 @@
 var car={
-    audio:'',
+    audio:'https://cdn.jsdelivr.net/gh/DaCodeMon/4game@carScripts/powertruck.m4a',
     maxRpm:17500,
     type:'powertruck',
     width:100,
