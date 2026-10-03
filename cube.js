@@ -1,0 +1,29 @@
+var car={
+    audio:'https://cdn.jsdelivr.net/gh/DaCodeMon/4game@main/cube.wav',
+    maxRpm:12750,
+    type:'cube',
+    idle:1200,
+    gears:[13,8,7,6,5,5,4,3,2,1],
+accelScore:0,
+  door1:{
+         color:'red',
+            length:50,
+        },
+        door2:{
+            color:'red',
+            length:50
+        },
+        hood:{
+            color:'red',
+            length:20
+        },
+        trunk:{
+            color:'red',
+            length:20
+        },
+        top:{
+            length:100,
+            x:20,
+            y:50
+        }
+}
